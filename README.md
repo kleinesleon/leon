@@ -1,3 +1,2 @@
 # leon
-Das ist nur eine einfache Änderung! \n
-Tschau Kakao!
+Du Hurensohn, das ist ein Fehler Programm!
